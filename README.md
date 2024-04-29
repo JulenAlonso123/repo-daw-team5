@@ -1,4 +1,3 @@
 # repo-daw-team5
 # Julen Alonso Rodero
-# Pablo Arnau Lopez
-# holaaa
+# Somos el mejor equipo
